@@ -1,4 +1,5 @@
 # Chatter Delete Blocker
+### This code is an updated version of the Chatter Delete Blocker application on the AppExchange by Salesforce Labs (https://appexchange.salesforce.com/appxListingDetail?listingId=a0N30000004cSsOEAU) that allows you to fully customize the application to your Orgs needs.
 
 This package will limit Feed Post and Comment deletes to Users with a Profile that has the Modify All Data permission.
 
